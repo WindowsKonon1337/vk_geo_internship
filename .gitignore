@@ -1,0 +1,4 @@
+*.ipynb
+*sample*
+*catboost*
+__py*__
